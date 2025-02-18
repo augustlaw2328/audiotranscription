@@ -4,12 +4,12 @@ A powerful desktop application for audio transcription and video-to-audio conver
 
 ## Features
 
-- **Audio Transcription**: Transcribe audio files with high accuracy using Whisper large-v3-turbo model
-- **Multiple Language Support**: Automatic language detection and support for various languages including English, Spanish, French, German, Italian, Chinese, Japanese, and more
-- **Video to Audio Conversion**: Extract audio from video files
-- **GPU Acceleration**: CUDA support for faster processing
-- **Export Options**: Save transcriptions in multiple formats (TXT, Excel, Word)
-- **Timestamp Support**: Include or exclude timestamps in transcriptions
+Audio Transcription: Transcribe audio files.
+Multiple Language Support: Automatic language detection and support for various languages, including English, Spanish, French, German, Italian, Chinese, Japanese, and more.
+Video to Audio Conversion: Extract audio from video files.
+GPU Acceleration: CUDA support for faster processing.
+Export Options: Save transcriptions in multiple formats (TXT, Excel, Word).
+Timestamp Support: Include or exclude timestamps in transcriptions.
 
 ## Requirements
 
