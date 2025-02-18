@@ -84,5 +84,3 @@ This description provides:
 7. Future development plans
 8. Proper credits and disclaimers
 
-Would you like me to modify any part of this description?
-
