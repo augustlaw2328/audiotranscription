@@ -10,7 +10,6 @@ A powerful desktop application for audio transcription and video-to-audio conver
 - **GPU Acceleration**: CUDA support for faster processing
 - **Export Options**: Save transcriptions in multiple formats (TXT, Excel, Word)
 - **Timestamp Support**: Include or exclude timestamps in transcriptions
-- **Server Mode**: Built-in HTTP server for API access
 
 ## Requirements
 
@@ -45,20 +44,14 @@ Export Options
     Excel spreadsheet format
     Word document format
 
-Server Mode
-
-    RESTful API interface
-    HTTP server on port 5000
-    File upload support
-    JSON response format
-
 License
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0)
+
 Credits
 
 Developed by Phoenix.ai
-Using OpenAI's Whisper model architecture
+
 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests.
