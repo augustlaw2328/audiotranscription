@@ -14,11 +14,13 @@ A powerful desktop application for audio transcription and video-to-audio conver
 ## Requirements
 
 - Windows 10 / 11
-  
+
+Google drive - https://drive.google.com/file/d/1dvUxi4mG9S4pJyrr883yWs4eS8RpOxEV/view?usp=sharing
+
 Usage
 
     1.Run the application:
-    2.Select device (GPU/CPU)
+    2.Select device (GPU/CPU) - Recommend Nvidia GPU. 
     3.Load the model
     4.Choose input audio file or convert video to audio
     5.Select output folder
